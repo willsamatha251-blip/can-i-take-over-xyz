@@ -1,7 +1,7 @@
 [
   {
     "cicd_pass": true,
-    "cname": ["au.mailgun.com.com"],
+    "cname": [""],
     "discussion": "[Issue #194](https://github.com/EdOverflow/can-i-take-over-xyz/issues/194)",
     "documentation": "",
     "fingerprint": "NXDOMAIN",
@@ -133,7 +133,7 @@
   },
   {
     "cicd_pass": false,
-    "cname": [],
+    "cname": [mailgun.datadome.co],
     "discussion": "[Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)",
     "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "fingerprint": "404 Not Found",
@@ -823,7 +823,7 @@
   },
   {
     "cicd_pass": false,
-    "cname": ["stats.uptimerobot.com"],
+    "cname": ["au.mailgun.com"],
     "discussion": "[Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)",
     "documentation": "[Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)",
     "fingerprint": "page not found",
