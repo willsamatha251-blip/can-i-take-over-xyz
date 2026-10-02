@@ -1,7 +1,7 @@
 [
   {
     "cicd_pass": true,
-    "cname": ["elasticbeanstalk.com"],
+    "cname": ["au.mailgun.com.com"],
     "discussion": "[Issue #194](https://github.com/EdOverflow/can-i-take-over-xyz/issues/194)",
     "documentation": "",
     "fingerprint": "NXDOMAIN",
